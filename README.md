@@ -1,5 +1,7 @@
 # Zero-Shot-Text-Classification
 
+### A Complete Descriptive Blog on Zero Shot Classification - [Click Here](https://medium.com/@saniyamulla108/zero-shot-learning-in-natural-language-processing-7c69cdd1af55)
+
 Zero-shot learning (ZSL) most often referred to a fairly specific type of task: learn a classifier on one set of labels and then evaluate on a different set of labels that the classifier has never seen before.
 
 This approach is used for finding out the probabilistic classififcation of any resume, with the categories being : 
